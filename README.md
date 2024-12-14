@@ -37,10 +37,10 @@
 
 #### Ответ: 
 
-[2](scrn/2.png)
-[3](scrn/3.png)
-[4](scrn/4.png)
-[5](scrn/5.png)
+![2](scrn/2.png)
+![3](scrn/3.png)
+![4](scrn/4.png)
+![5](scrn/5.png)
 
 1. wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian12_all.deb
 2. dpkg -i zabbix-release_latest_6.0+debian12_all.deb
